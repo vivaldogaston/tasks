@@ -2,8 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Task
 
-Add task
-Remove task
+Add task\n
+Remove task\n 
 Mark task as completed.
 
 ## Prerequisites

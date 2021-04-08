@@ -7,9 +7,12 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "immer": "^9.0.1",
+    "is-svg": "^4.2.2",
     "react": "^16.14.0",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.14.0",
-    "react-scripts": "^4.0.1"
+    "react-scripts": "^4.0.1",
+    "ssri": "^8.0.1"
   },
   "scripts": {
     "start": "react-scripts start",

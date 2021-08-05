@@ -3,13 +3,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Task
 
 Add task;
-Remove task; 
+Remove task;
 Mark task as completed.
 
 ## Prerequisites
 
- Node.js.
- 
+Node.js.
+
 ## Install and Execute
 
 Clone the repo;

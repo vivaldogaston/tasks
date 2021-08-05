@@ -1,0 +1,12 @@
+/**
+ *      <ul style={{listStyle:"",padding:0}}>
+          {tasks.map((task,index) => (
+          <li key={task.id}>{task.value} | 
+          <button onClick={()=>done(index,task.id,task.value,task.done)}>{task.done?'Completada':'Não Completada'}</button> | 
+          <button onClick={()=>del(index)}>Remover</button>
+          </li>
+        )) }
+      
+        </ul>
+
+ */

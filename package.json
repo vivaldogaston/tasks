@@ -10,7 +10,7 @@
     "immer": "^9.0.5",
     "is-svg": "^4.2.2",
     "react": "^16.14.0",
-    "react-dev-utils": "^5.0.3",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.14.0",
     "react-scripts": "^4.0.3",
     "ssri": "^8.0.1"
